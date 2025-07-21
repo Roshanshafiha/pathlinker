@@ -62,9 +62,9 @@ cancer
 ```
 
 ## 3. 📊 Example output
-```
+
 ![Cancer Pathway Network](example/cancer_pathways.png)
-```
+
 
 ## 📂 Project Structure
 
