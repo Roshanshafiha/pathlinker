@@ -51,7 +51,6 @@ pip install -r requirements.txt
 python app.py
 
 ```
-
 Then open http://127.0.0.1:8050 in your browser.
 
 ## 2. 📝 Example Input
@@ -60,6 +59,7 @@ TP53, BRCA1, EGFR, MYC
 
 Optional Keyword Filter:
 cancer
+```
 
 ## 3. 📊 Example output
 ```
@@ -69,9 +69,11 @@ cancer
 ## 📂 Project Structure
 
 ```bash
+
 ├── app.py                # Main Dash app
 ├── README.md             # Project documentation
 ├── requirements.txt      # Dependencies
+
 ```
 
 ## 📡 Data Sources
