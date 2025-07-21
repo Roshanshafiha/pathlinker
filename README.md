@@ -61,6 +61,9 @@ TP53, BRCA1, EGFR, MYC
 Optional Keyword Filter:
 cancer
 
+Output:
+`examples/cancer_pathways.png`
+
 ```
 
 ## 📂 Project Structure
